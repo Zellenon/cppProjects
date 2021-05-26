@@ -1,0 +1,3 @@
+The base code, gem images, and background image were provided by ENGR:2730
+Font - "Hemi Head Bold Italic" - Obtained from 1001fonts.com, used according to the Typodermic EULA (see fonts folder)
+SFX - All SFX made by Graham Scott (creator of this program) using REAPER and ZynAddSubEffects

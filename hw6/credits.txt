@@ -1,0 +1,3 @@
+The base code, asteroid and ship images, and background image were provided by ENGR:2730
+SFX - All SFX made by Graham Scott (creator of this program) using REAPER and ZynAddSubEffects
+ships_saucer.png used from http://www.aperico.com/ according to the Creative Commons Attribution 3.0 Unported license
